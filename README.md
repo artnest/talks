@@ -1,5 +1,6 @@
 # Talks
 ## Speaker
+- Leveraging The Native Side of React Native (Loóna Talks: React Native, May 2022): [video](https://youtu.be/a7MGdPSiKl4?t=3728)
 - Android Academy Fundamentals #11 - Animations (Android Academy Global, Feb 2021): [slides](http://bit.ly/anim-slides), [video](https://youtu.be/fcTC-jT4jeA)
 - Android Academy Fundamentals #7 - Networking (Android Academy Global, Dec 2020): [slides](https://bit.ly/3amytER), [video](https://youtu.be/7QEW_YUyzBY)
 - Android 11 #5: Easing In and Out with Jetpack Compose: [slides](https://docs.google.com/presentation/d/11pBpSg39R3g3z83sGT6Py-EfZFNjz1745pwQBT6IeeA/edit?usp=sharing), [video](https://youtu.be/fNzcgeMr1pU)
