@@ -3,7 +3,8 @@
 - Leveraging The Native Side of React Native (Loóna Talks: React Native, May 2022): [video](https://youtu.be/a7MGdPSiKl4?t=3728)
 - Android Academy Fundamentals #11 - Animations (Android Academy Global, Feb 2021): [slides](http://bit.ly/anim-slides), [video](https://youtu.be/fcTC-jT4jeA)
 - Android Academy Fundamentals #7 - Networking (Android Academy Global, Dec 2020): [slides](https://bit.ly/3amytER), [video](https://youtu.be/7QEW_YUyzBY)
-- Android 11 #5: Easing In and Out with Jetpack Compose: [slides](https://docs.google.com/presentation/d/11pBpSg39R3g3z83sGT6Py-EfZFNjz1745pwQBT6IeeA/edit?usp=sharing), [video](https://youtu.be/fNzcgeMr1pU)
+- Android 11 #5: Easing In and Out with Jetpack Compose (Android 11 Updates, Sep 2020): [slides](https://docs.google.com/presentation/d/11pBpSg39R3g3z83sGT6Py-EfZFNjz1745pwQBT6IeeA/edit?usp=sharing), [video](https://youtu.be/fNzcgeMr1pU)
+- Introduction to Kotlin (Java course in BSU, Nov 2019): [slides](https://docs.google.com/presentation/d/158wgwZ2Nz8E3_xaPVTmH-BhMmFddEx1TJ99sGKkoU1I/edit?usp=sharing)
 - Android Academy Minsk Fundamentals #8 - Networking (Android Academy Minsk, Oct 2019): [slides](https://bit.ly/34ttBbZ), [video](https://youtu.be/wPWl_XGsW64)
 - Android Navigation component спешит на помощь (GDG Minsk Meetup, Oct 2019): [video](https://youtu.be/5LXA9PB-chA)
 
