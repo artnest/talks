@@ -6,7 +6,7 @@
 - Android 11 #5: Easing In and Out with Jetpack Compose (Android 11 Updates, Sep 2020): [slides](https://docs.google.com/presentation/d/11pBpSg39R3g3z83sGT6Py-EfZFNjz1745pwQBT6IeeA/edit?usp=sharing), [video](https://youtu.be/fNzcgeMr1pU)
 - Introduction to Kotlin (Java course in BSU, Nov 2019): [slides](https://docs.google.com/presentation/d/158wgwZ2Nz8E3_xaPVTmH-BhMmFddEx1TJ99sGKkoU1I/edit?usp=sharing)
 - Android Academy Minsk Fundamentals #8 - Networking (Android Academy Minsk, Oct 2019): [slides](https://bit.ly/34ttBbZ), [video](https://youtu.be/wPWl_XGsW64)
-- Android Navigation component спешит на помощь (GDG Minsk Meetup, Oct 2019): [video](https://youtu.be/5LXA9PB-chA)
+- Android Navigation component спешит на помощь (GDG Minsk Meetup, Oct 2019): [slides](https://docs.google.com/presentation/d/1OcjfrA_S0RGvbp-HmXsnP4n9zYrBZ8Aq5O2TvVen8X4/edit?usp=sharing), [video](https://youtu.be/5LXA9PB-chA)
 
 ## Moderator
 - Android Academy Advanced #9. Guest Lecture. Play around with infrastructure (Android Academy Global, Dec 2021): [video](https://youtu.be/JFpYStTepNQ)
